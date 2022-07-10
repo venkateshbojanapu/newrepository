@@ -1,0 +1,17 @@
+[16:41] Khondpani, Gabriela
+The client was completely expecting on SQL, Joints,
+ AWS data lake, injecting data, curating data, working on data pipelines,
+ applying business logics, AWS cloud formation experience,
+ SQL server and My SQL server scripting, use of CT's in SQL,
+ DevOps knowledge (knowledge alone as the role is for database engineer), 
+DDL and DML, Normal view on DML, Joints, how to use and handle left and right joint,
+ handling and creating tables via SQL scripts, AZ, Load balancer,
+ Configuring availability zones for one load balancer, configuring SQS using filters,
+ filters defining using filter policy, parameters in working with filters, S3 storage classes, 
+Windows and Linux configuring and troubleshooting via EC2, NACL and how we block traffic using private,
+NAT gateway and NACL, Basting host in NAT gateway, NACL and sec group statefull or stateless,
+ downloading private software using NAT and private network etc
+
+[16:41] Chowdhury, Shuvam
+thanks
+
